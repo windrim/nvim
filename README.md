@@ -27,7 +27,7 @@ Clone with the specified dir name `user`.
 
 ```sh
 cd ~/.config/nvim/lua
-git clone https://www.github.com/windrim/nvim user
+git clone https://www.github.com/windrim/nvim.git user
 ```
 
 Then `:PackerSync`.
